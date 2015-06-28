@@ -1,0 +1,53 @@
+ /* CSS Document for primary links */
+.yuimenubar{visibility:visible;position:static;}
+.yuimenu .yuimenu,.yuimenubar .yuimenu{visibility:hidden;position:absolute;top:-10000px;left:-10000px;}
+.yui-menu-shadow{position:absolute;visibility:hidden;z-index:-1;}
+
+.yuimenubar ul, .yuimenu ul { list-style-type:none;}
+
+.yuimenubar ul, .yuimenu ul, .yuimenubar li, .yuimenu li, .yuimenu h6, .yuimenubar h6 { margin:0; padding:0;}
+#productsandservices { 
+	overflow:hidden; 
+/*	padding-top:14px;*/ 
+	padding-top:5px; 
+	position:relative; 
+	z-index:1}
+
+.yuimenuitemlabel, .yuimenubaritemlabel { white-space:nowrap;}
+
+.hide-scrollbars * { overflow:hidden;}
+
+.hide-scrollbars select { display:none;}
+
+.yuimenu.show-scrollbars { overflow:visible;}
+
+.yui-skin-sam .yuimenubar > .bd > ul:after { clear:both; content:"."; display:block; height:0; line-height:0; visibility:hidden; }
+
+
+.yui-skin-sam .yuimenubaritem { float:left;}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritem { line-height:1.42em; padding-right:21px;}
+
+.yui-skin-sam .yuimenubaritemlabel { display:block; *position:relative; text-decoration:none; text-align:center; background:none; line-height:1.42em; color:#424242; padding:0px; width:102px; padding:5px 0}
+.yui-skin-sam .yuimenubaritemlabel-selected, .yui-skin-sam .yuimenubaritem a.active, .yui-skin-sam .yuimenubaritem-hassubmenu-selected{ color:#00a4bc; background:url(images/bg-li.gif) no-repeat 0 0}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel {	font-size:14px !important; line-height:1.42em;}
+/** + html .yui-skin-sam .yuimenubarnav .yuimenubaritemlabel { padding:5px 0px 0px 0px; }*/
+
+.yui-skin-sam .yuimenu { }
+
+.yui-skin-sam .yuimenu .bd { 
+	left:0; 
+	top:0; 
+	overflow:hidden; 
+	/*width:152px; */
+	width:170px; 
+	background:#f5f5f5; 
+	-moz-border-radius:10px; 
+	-webkit-border-radius:10px; 
+	border:1px solid #c7c7c7;}
+.yui-skin-sam .yuimenu ul { padding:10px 0px 10px 0;}
+
+.yui-skin-sam .yuimenuitemlabel{ font-size:14px; color:#51433f; line-height:25px; padding-left:18px; text-decoration:none;}
+.yui-skin-sam .yuimenuitemlabel-selected, .yui-skin-sam .bd .yuimenuitem a.active{ color:#fff; overflow:hidden; display:block; background:#7fb000;}
+/*.first-of-type a, .first-of-type li a.active, a.yuimenubaritemlabel  { font-size:34px; color:#fff; text-transform:uppercase;}*/ /***For IE with cufon***/ 

@@ -11,12 +11,12 @@ description: >
   My personal website based on Jekyll using Centrarium theme
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cecuesta.github.io" # the base hostname & protocol for your site
-cover: "assets/cropped-enlightenment.jpg"
-logo: "assets/logo.png"
+cover: "assets/header_data.jpg"
+#logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 1
 paginate_path: "/page:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)

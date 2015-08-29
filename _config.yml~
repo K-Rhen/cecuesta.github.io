@@ -12,7 +12,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cecuesta.github.io" # the base hostname & protocol for your site
 #cover: "assets/header_data.jpg"
-cover: "assets/unsplash-1.jpg"
+cover: "assets/data_comm.jpg"
 logo: "assets/logo.png"
 
 # Build settings

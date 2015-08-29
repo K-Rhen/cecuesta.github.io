@@ -9,7 +9,7 @@ email: cecuesta@gmail.com
 name: Carlos E. Cuesta
 description: > 
   My personal website based on Jekyll using Centrarium theme
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cecuesta.github.io" # the base hostname & protocol for your site
 cover: "assets/cropped-enlightenment.jpg"
 logo: "assets/logo.png"

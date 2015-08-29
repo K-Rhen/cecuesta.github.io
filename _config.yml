@@ -11,7 +11,7 @@ description: >
   My personal website based on Jekyll using Centrarium theme
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://cecuesta.github.io" # the base hostname & protocol for your site
-cover: "assets/cropped-enlightenment.jpg"
+cover: "assets/dataTube.jpg"
 logo: "assets/logo.png"
 
 # Build settings

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Assembly Required"
-date:   2015-08-30 08:08:08
+date:   2015-08-30 00:00:01
 author: Carlos Cuesta
 categories: Admin
 tags:	admin

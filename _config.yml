@@ -1,6 +1,7 @@
 # External gems
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Site settings
 title: Nusquam
